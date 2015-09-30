@@ -1,7 +1,9 @@
-# -*- mode: mandoku-view -*-
+# -*- mode: mandoku-view; -*-
 #+TITLE: 詩緝
-#+DATE: 2015-09-23 09:36:42
-#+PROPERTY: JUAN 15
+#+DATE: 2015-08-24 22:05:06.341325
+#+PROPERTY: ID KR1c0023
+#+PROPERTY: BASEEDITION WYG    
+#+PROPERTY: JUAN 卷十五
 <pb:KR1c0023_WYG_015-1a>¶
 欽定四庫全書¶
 　詩緝卷十五¶
@@ -164,4 +166,3 @@
 　¶
 　¶
 　詩緝卷十五¶
-

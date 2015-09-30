@@ -1,7 +1,9 @@
-# -*- mode: mandoku-view -*-
+# -*- mode: mandoku-view; -*-
 #+TITLE: 詩緝
-#+DATE: 2015-09-23 09:36:42
-#+PROPERTY: JUAN 21
+#+DATE: 2015-08-24 22:05:06.463235
+#+PROPERTY: ID KR1c0023
+#+PROPERTY: BASEEDITION WYG    
+#+PROPERTY: JUAN 卷二十一
 <pb:KR1c0023_WYG_021-1a>¶
 欽定四庫全書¶
 　詩緝卷二十一¶
@@ -524,4 +526,3 @@
 　　　章六句¶
 　¶
 　詩緝卷二十一¶
-
